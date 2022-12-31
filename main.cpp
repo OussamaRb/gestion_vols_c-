@@ -1,9 +1,10 @@
 #include <iostream>
-
+#include "Voyageur.h"
 using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    voyageur voyageur1("oussama","rabhi",22,"F22312");
+    voyageur1.affiche();
     return 0;
 }
