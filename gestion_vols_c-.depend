@@ -1,13 +1,14 @@
 # depslib dependency file v1.0
-1672503662 source:c:\users\yassine\documents\github\gestion_vols_c-\main.cpp
+1672506793 source:c:\users\yassine\documents\github\gestion_vols_c-\main.cpp
 	<iostream>
 	"Voyageur.h"
+	"Vols.h"
 
 1672503494 c:\users\yassine\documents\github\gestion_vols_c-\voyageur.h
 
-1672503649 source:c:\users\yassine\documents\github\gestion_vols_c-\voyageur.cpp
+1672506539 source:c:\users\yassine\documents\github\gestion_vols_c-\voyageur.cpp
 	<iostream>
-	<fstream>
-	<string>
 	"Voyageur.h"
+
+1672506793 c:\users\yassine\documents\github\gestion_vols_c-\vols.h
 
